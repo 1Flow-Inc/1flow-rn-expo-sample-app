@@ -1,6 +1,6 @@
 # About 1Flow
 
-1Flow is tool for Analytics and Getting Feedback from your users. 1Flow is very easy to integrate and use in your project. Read more at [1Flow](https://1flow.app)
+1Flow is tool for Analytics and Getting Feedback from your users. 1Flow is very easy to integrate and use in your project. Read more at [1Flow](https://1flow.app?ref=rn-expo-github).
 
 # Create Expo App
 
